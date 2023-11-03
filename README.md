@@ -5,8 +5,8 @@
 <div size='20px'> Hi! My name is Jared Childers. I enjoy building things and listening to music. Currently focusing on developing with Rust and Dart. Thank You for taking the time to view my GitHub Profile :smile: </div>
 
 <h3> What I'm listening to currently </h3>
-[Kursa](https://soundcloud.com/kursauk/a-few-recent-works-2023)
-[Saka](https://soundcloud.com/soundslikesaka/wanchai)
+[Kursa] (https://soundcloud.com/kursauk/a-few-recent-works-2023) <br>
+[Saka] (https://soundcloud.com/soundslikesaka/wanchai)
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
