@@ -36,7 +36,7 @@
 <a href= https://github.com/https://github.com/JaredChilders?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
 <a href= https://github.com/https://github.com/JaredChilders?tab=repositories&q=&type=&language=tokio&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tokio.svg'> </a>
 <a href= https://github.com/https://github.com/JaredChilders?tab=repositories&q=&type=&language=tonic&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tonic.svg'> </a>
-<a href= https://github.com/https://github.com/JaredChilders?tab=repositories&q=&type=&language=seaorm&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/seaorm.svg'> </a>
+<a href= https://github.com/https://github.com/JaredChilders?tab=repositories&q=&type=&language=seaorm&sort= > <img width ='32px' height='32px' src ='https://imgur.com/0wT7RU'> </a>
 
 <h3> Databases </h3>
 <a href= https://github.com/https://github.com/JaredChilders?tab=repositories&q=&type=&language=redis&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redis.svg'> </a>
