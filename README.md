@@ -29,7 +29,7 @@
 <a href= https://github.com/https://github.com/JaredChilders?tab=repositories&q=&type=&language=go&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg'> </a>
 <a href= https://github.com/https://github.com/JaredChilders?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/https://github.com/JaredChilders?tab=repositories&q=&type=&language=dart&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dart.svg'> </a>
-<a href= https://github.com/https://github.com/JaredChilders?tab=repositories&q=&type=&language=soldity&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/soldity.svg'> </a>
+<a href= https://github.com/https://github.com/JaredChilders?tab=repositories&q=&type=&language=soldity&sort= > <img width ='32px' height='32px' src ='http://www.w3.org/2000/svg'> </a>
 
 <h3> Frameworks </h3>
 <a href= https://github.com/https://github.com/JaredChilders?tab=repositories&q=&type=&language=flutter&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'> </a>
