@@ -10,7 +10,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on a real-time NFL data analytics application for mobile devices.
+- 🔭 I’m currently working on a real-time NFL data analytics application.
 
 - 🌱 I’m currently learning Flutter / Dart and distributed system architecture.
 
