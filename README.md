@@ -15,7 +15,7 @@ https://soundcloud.com/kursauk/a-few-recent-works-2023 <br>
 
 - 🔭 I’m currently working on a real-time NFL data analytics application.
 
-- 🌱 I’m currently learning Flutter / Dart and distributed system architecture.
+- 🌱 I’m currently learning Flutter/Dart, Rust, and Machine Learning.
 
 - 💬 Talk to me about Job Opportunities and Potential collaborations.
 
