@@ -5,7 +5,7 @@
 <div size='20px'> Hi! My name is Jared Childers. I enjoy building things and listening to music. Currently focusing on developing with Rust and Dart. Thank You for taking the time to view my GitHub Profile :smile: </div>
 
 <h3> What I'm currently listening to </h3>
-[https://soundcloud.com/kursauk/a-few-recent-works-2023](https://soundcloud.com/mustdiemusic/someone-2-trust) <br>
+[Must Die! - Someone 2 Trust] (https://soundcloud.com/mustdiemusic/someone-2-trust) <br>
 
 <h2> About Me </h2>
 
