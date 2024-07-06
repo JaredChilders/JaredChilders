@@ -2,21 +2,18 @@
 <p align='center'>
 
 </p>
-<div size='20px'> Hi! My name is Jared Childers. I enjoy building things and listening to music. Currently focusing on developing with Rust and Dart. Thank You for taking the time to view my GitHub Profile :smile: </div>
-
-<h3> What I'm currently listening to </h3>
-[Must Die! - Someone 2 Trust] (https://soundcloud.com/mustdiemusic/someone-2-trust) <br>
+<div size='20px'> Hi! My name is Jared Childers. I enjoy producing bass music and developing my own custom audio plugins. Currently I'm focusing on developing audio plugins with Rust and C++. Thank You for taking the time to view my GitHub Profile :smile: </div>
 
 <h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on a real-time NFL data analytics application.
+- 🔭 I’m currently working on Audio Plugin Development
 
-- 🌱 I’m currently learning Flutter/Dart, Rust, and Machine Learning.
+- 🌱 I’m currently learning DSP and ML.
 
-- 💬 Talk to me about Job Opportunities and Potential collaborations.
+- 💬 Talk to me about Audio Plugins and Music Production.
 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
